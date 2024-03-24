@@ -1,7 +1,7 @@
 Package: iNEXT
 Type: Package
 Title: Interpolation and Extrapolation for Species Diversity
-Version: 3.0.0
+Version: 3.0.1
 Author: T. C. Hsieh, K. H. Ma and Anne Chao
 Description: Provides simple functions to compute and plot two types 
     (sample-size- and coverage-based) rarefaction and extrapolation curves for species
@@ -22,6 +22,6 @@ VignetteBuilder: knitr
 ByteCompile: true
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2022-08-29 10:58:11 UTC; johnson
+Packaged: 2024-03-24 04:09:40 UTC; johnson
 Repository: CRAN
-Date/Publication: 2022-08-29 11:20:02 UTC
+Date/Publication: 2024-03-24 17:10:09 UTC
